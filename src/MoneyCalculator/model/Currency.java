@@ -1,4 +1,4 @@
-package MoneyCalculator;
+package MoneyCalculator.model;
 
 public class Currency {
     
